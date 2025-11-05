@@ -22,7 +22,7 @@ I specialize in creating interactive dashboards, automating reports, and uncover
 
 ## 🛠️ Tools & Technologies  
 
-| Category | Tools & Icons |
+| Category | Tools |
 |-----------|---------------|
 | **Languages** | ![SQL](https://img.shields.io/badge/-SQL-blue) ![Python](https://img.shields.io/badge/-Python-yellow) |
 | **Visualization** | ![Power BI](https://img.shields.io/badge/-PowerBI-darkgoldenrod) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-skyblue) |
