@@ -28,6 +28,8 @@ I specialize in creating interactive dashboards, automating reports, and uncover
 | **Visualization** | ![Power BI](https://img.shields.io/badge/-PowerBI-darkgoldenrod) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-skyblue) |
 | **Data Handling** | ![Excel](https://img.shields.io/badge/-Excel-green) ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue) |
+| **Core Analytics** | ![NumPy](https://img.shields.io/badge/-NumPy-lightblue) ![Pandas](https://img.shields.io/badge/-Pandas-darkblue) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-orange) |
+
 
 ---
 
