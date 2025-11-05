@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Rimon  
 
-<!--
-**ghorimon/ghorimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst**  
+SQL | Power BI | Excel | Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Who Am I?  
+I'm a results-driven **Data Analyst** passionate about turning raw data into actionable business insights.  
+I specialize in creating interactive dashboards, automating reports, and uncovering trends that help businesses make smarter decisions.  
+
+---
+
+## 💡 What I Do  
+🔹 Analyze and clean large datasets for accuracy and trends  
+📊 Build dashboards that drive data-informed strategies  
+⚙️ Automate reporting workflows using Power Query & VBA  
+📈 Use SQL & Python for analytics, forecasting, and KPI tracking  
+🗣️ Communicate insights in clear, business-friendly visuals  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+| Category | Tools & Icons |
+|-----------|---------------|
+| **Languages** | ![SQL](https://img.shields.io/badge/-SQL-blue) ![Python](https://img.shields.io/badge/-Python-yellow) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/-PowerBI-darkgoldenrod) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-skyblue) |
+| **Data Handling** | ![Excel](https://img.shields.io/badge/-Excel-green) ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue) |
+
+---
+
+## 🏆 Achievements  
+🏅 Reduced operational cost by **12%** via KPI optimization  
+📊 Built dashboards analyzing **300K+ transactions**  
+🚀 Improved team efficiency by **10%** through automation  
+🏆 3× Recognition Awards at Amazon  
+
+---
+
+## 🎓 Education  
+**B.Sc. Economics Honors** – Jogesh Chandra Chaudhuri College, Kolkata  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rimonghosh/)  
+[![Portfolio](https://img.shields.io/badge/NovyPro-Portfolio-orange)](https://www.novypro.com/project/supply-chain-analytics---fmcg-domain)
