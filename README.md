@@ -48,4 +48,4 @@ I specialize in creating interactive dashboards, automating reports, and uncover
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rimonghosh/)  
-[![Portfolio](https://img.shields.io/badge/NovyPro-Portfolio-orange)](https://www.novypro.com/project/supply-chain-analytics---fmcg-domain)
+[![Portfolio](https://img.shields.io/badge/NovyPro-Portfolio-orange)](https://codebasics.io/portfolio/Rimon-Ghosh)
