@@ -23,12 +23,13 @@ I specialize in creating interactive dashboards, automating reports, and uncover
 ## 🛠️ Tools & Technologies  
 
 | Category | Tools |
-|-----------|---------------|
+|--------|------|
 | **Languages** | ![SQL](https://img.shields.io/badge/-SQL-blue) ![Python](https://img.shields.io/badge/-Python-yellow) |
-| **Visualization** | ![Power BI](https://img.shields.io/badge/-PowerBI-darkgoldenrod) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-skyblue) |
-| **Data Handling** | ![Excel](https://img.shields.io/badge/-Excel-green) ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) |
+| **Data Engineering** | ![AWS S3](https://img.shields.io/badge/-AWS%20S3-green) ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-purple) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange) ![Amazon Redshift](https://img.shields.io/badge/-Redshift-red) |
+| **Analytics & BI** | ![Power BI](https://img.shields.io/badge/-PowerBI-darkgoldenrod) ![Excel](https://img.shields.io/badge/-Excel-green) |
+| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-orange) ![NumPy](https://img.shields.io/badge/-NumPy-lightblue) ![Pandas](https://img.shields.io/badge/-Pandas-darkblue) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue) |
-| **Core Analytics** | ![NumPy](https://img.shields.io/badge/-NumPy-lightblue) ![Pandas](https://img.shields.io/badge/-Pandas-darkblue) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-orange) |
+| **Workflow & Notebooks** | ![Jupyter](https://img.shields.io/badge/-Jupyter-orange) |
 
 
 ---
