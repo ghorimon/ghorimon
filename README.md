@@ -22,33 +22,30 @@ I focus on **business-impact analytics**, not academic experiments.
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🧰 Languages & Tools
 
-### 💻 Languages
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![Python](https://img.shields.io/badge/-Python-yellow)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
 
-### ⚙️ Data Engineering & Cloud
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-orange)
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-purple)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange)
-![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-darkred)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 
-### 📊 Analytics & BI
-![Power BI](https://img.shields.io/badge/-Power%20BI-gold)
-![Excel](https://img.shields.io/badge/-Excel-green)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue)
-
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-orange)
-![Pandas](https://img.shields.io/badge/-Pandas-darkblue)
-![NumPy](https://img.shields.io/badge/-NumPy-lightblue)
-
-### 🧪 Development
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange)
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
+</p>
 
 ---
 
