@@ -33,7 +33,7 @@ I focus on **business-impact analytics**, not academic experiments.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" title="Apache Spark"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg?color=FF0000" width="36" height="36" title="Databricks"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36"/>
